@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asu2304" alt="asu2304" /></a> </p>
 
-- 🔭 I’m currently working on [Disaster_tweet_Detection](https://github.com/asu2304/Disaster_tweet_Detection)
+- 🔭 I’m currently working on [Real_Time_Servilience]((https://github.com/asu2304/Real_Time_Servilience))
 
-- 🌱 I’m currently working on **Deep Learning tasks!**
+- 🌱 I’m currently working on **Deep Learning Projects!**
 
-- 👯 I’m looking to collaborate on [Pediageek-recommendation-system](https://github.com/asu2304/Pediageek-recommendation-system)
+- 👯 I’m looking to collaborate on [my_nlp]("soon")
 
-- 🤝 I’m looking for help with [kirana-data-exploration](https://github.com/asu2304/kirana-data-exploration)
+- 🤝 I’m looking for help with [Real_Time_Servilience]((https://github.com/asu2304/Real_Time_Servilience))
 
-- 👨‍💻 All of my projects are available at [https://codeforces.com/profile/aashu.patidar9876](https://codeforces.com/profile/aashu.patidar9876)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/asu2304?tab=repositories)
 
 - 💬 Ask me about **AI, State Of The Art!**
 
