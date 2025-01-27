@@ -15,7 +15,7 @@
 
 <!-- - 💬 Ask me about **AI, State Of The Art!** -->- 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Yp_rNcbAB0n_K2LW0egOoTFACbqBk9UE/view?usp=drive_link](https://drive.google.com/file/d/1Yp_rNcbAB0n_K2LW0egOoTFACbqBk9UE/view?usp=drive_link)
+- 📄 MY CV [https://drive.google.com/file/d/1Yp_rNcbAB0n_K2LW0egOoTFACbqBk9UE/view?usp=drive_link](https://drive.google.com/file/d/1Yp_rNcbAB0n_K2LW0egOoTFACbqBk9UE/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
