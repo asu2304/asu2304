@@ -1,30 +1,71 @@
-<h1 align="center">Hi 👋, I'm Ashutosh </h1>
-<h3 align="center">Passionate About Contributing towards making machines smarter than humans!</h3>
+# 👋 Hi, I'm Ashutosh Patidar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asu2304&label=Profile%20views&color=0e75b6&style=flat" alt="asu2304" /> </p>
+🎓 **MS (by Research) Scholar** in Data Science and AI at **IIT Madras**  
+📍 From Khargone, Madhya Pradesh | ✉️ 20ec3013@rgipt.ac.in  
+🔗 [GitHub](https://github.com/your-username) • [Kaggle](https://www.kaggle.com/your-profile) • [LinkedIn](https://www.linkedin.com/in/your-profile) • [Twitter](https://twitter.com/your-handle)
 
-<!-- I’m currently working on [Real_Time_Servilience](https://github.com/asu2304/Real_Time_Servilience) -->- 
+---
 
-<!-- - 🌱 I’m currently working on **Deep Learning Projects!** -->- 
+### 🧠 About Me
 
-<!-- - 👯 I’m looking to collaborate on [my_nlp]("soon") -->- 
+I’m a passionate machine learning researcher with a strong mathematical foundation and a relentless drive to **solve real-world problems** through research, experimentation, and thoughtful engineering.
 
-<!-- - 🤝 I’m looking for help with [Real_Time_Servilience](https://github.com/asu2304/Real_Time_Servilience) -->- 
+I specialize in building and understanding deep learning systems — especially in **transformer interpretability**, **theoretical DL**, and **optimization** — with a focus on both implementation and scientific grounding.
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/asu2304?tab=repositories) 
+---
 
-<!-- - 💬 Ask me about **AI, State Of The Art!** -->- 
+### 🚀 Highlights
 
-- 📄 MY CV [https://drive.google.com/file/d/1Yp_rNcbAB0n_K2LW0egOoTFACbqBk9UE/view?usp=drive_link](https://drive.google.com/file/d/1Yp_rNcbAB0n_K2LW0egOoTFACbqBk9UE/view?usp=drive_link)
+- 🎯 **Secured AIR-543 (98.62%ile)** in GATE (Data Science & AI), 2024  
+- 🧪 Working on **transformer interpretability** under Prof. Harish Guruprasad, IIT Madras  
+- 🎓 Selected for **M.Tech (High Value Assistantship)** at IIT Delhi and **MMVY Scholarship** for academic excellence  
+- 💻 Built projects in **face recognition**, **recommender systems**, and **customer segmentation**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/ashutos57570081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ashutos57570081" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-patidar-091a55171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutosh-patidar-091a55171/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/asu2304/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/asu2304/home" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🛠️ Technical Stack
 
+**Languages & Libraries**  
+`Python`, `NumPy`, `Pandas`, `PyTorch`, `TensorFlow`, `OpenCV`, `Matplotlib`, `Seaborn`, `Scikit-Learn`, `Keras`, `NLTK`, `SpaCy`
 
+**Machine Learning & DL**  
+`CNNs`, `RNNs`, `LSTMs`, `Transformers`, `GANs`, `MLPs`, `SVM`, `Decision Trees`, `KNN`, `Naive Bayes`
+
+**Tools & Platforms**  
+`Git`, `GitHub`, `Google Colab`, `VS Code`, `PyCharm`, `MongoDB`, `MATLAB`, `Kaggle`, `Jupyter Notebook`
+
+---
+
+### 📚 Selected Coursework
+
+- Mathematical Foundations of Data Science – *Grade: 10.00*  
+- Deep Generative Modelling for Imaging – *Grade: 9.00*  
+- Introduction to Deep Learning – *Grade: 9.00*  
+- Foundations of Machine Learning – *Grade: 8.00*  
+- Data Analytics Lab – *Grade: 9.00*
+
+---
+
+### 💡 Featured Projects
+
+**🔍 One Shot Face Recognition with Siamese Networks**  
+Built a DNN from scratch for face recognition using Siamese architecture.  
+`Python`, `TensorFlow`, `Keras`, `OpenCV`
+
+**📦 Ecom Customer Segmentation (K-Means + RFM)**  
+Segmented retail customers using unsupervised learning.  
+`NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-Learn`
+
+**📚 PediaGeek Blog Recommender (KNN-based)**  
+Developed a scalable recommender system for blogs, improving engagement by 30–40%.  
+`KNN`, `ML Pipelines`, `Large-scale optimization`
+
+---
+
+### 🧭 Current Goal
+
+Contributing to **interpretable deep learning** and preparing for a Ph.D. focused on **theoretical and foundational AI research**.
+
+---
+
+_“Solve problems not because they are easy, but because they reveal the structure of intelligence.”_
