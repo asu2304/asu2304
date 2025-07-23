@@ -2,7 +2,7 @@
 
 🎓 **MS (by Research) Scholar** in Data Science and AI at **IIT Madras**  
 📍 From Khargone, Madhya Pradesh | ✉️ ashutosh.patidar@dsai.iitm.ac.in  
-🔗 [GitHub](https://github.com/asu2304) • [Kaggle](https://www.kaggle.com/asu2304) • [LinkedIn](https://www.linkedin.com/in/ashutosh-patidar-091a55171/) • [Twitter](https://twitter.com/Ashutos57570081)
+🔗 [GitHub](https://github.com/asu2304) • [Kaggle](https://www.kaggle.com/asu2304) • [LinkedIn](https://www.linkedin.com/in/ashutosh-patidar-091a55171/) • [Twitter](https://twitter.com/Ashutos57570081) • [Resume](https://drive.google.com/file/d/1JpaNgwoeTllwJc886hbgk2SijVW937D0/view?usp=sharing)
 
 ---
 
