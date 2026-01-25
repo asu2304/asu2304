@@ -65,7 +65,7 @@ Developed a scalable recommender system for blogs, improving engagement by 30–
 
 ### 🧭 Current Goal
 
-Contributing to **interpretable deep learning** and preparing for a Ph.D. focused on **theoretical and foundational AI research**.
+Contributing to **interpretable deep learning** focused on **theoretical and foundational AI research**.
 
 ---
 
