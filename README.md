@@ -9,9 +9,9 @@
 
 ### 🧠 About Me
 
-I’m a passionate machine learning researcher with a strong mathematical foundation and a relentless drive to **solve real-world problems** through research, experimentation, and thoughtful engineering.
+I’m a passionate machine learning researcher(interpretability) with a strong mathematical foundation and a relentless drive to **solve real-world problems** through research, experimentation, and thoughtful engineering.
 
-I specialize in building and understanding deep learning systems — especially in **transformer interpretability**, **theoretical DL**, and **optimization** — with a focus on both implementation and scientific grounding.
+I specialize in building and understanding deep learning systems — especially in **transformer interpretability**, **theoretical DL**, and **ML Operations**.
 
 ---
 
