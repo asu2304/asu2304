@@ -50,4 +50,3 @@ I am currently diving deep into **MLOps** to bridge the gap between research mod
 
 ---
 
-> *"Solve problems not because they are easy, but because they reveal the structure of intelligence."*
