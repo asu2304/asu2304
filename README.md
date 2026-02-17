@@ -1,72 +1,53 @@
 # 👋 Hi, I'm Ashutosh Patidar
 
-🎓 **MS** in Data Science and AI at **IIT Madras**  
-✉️ ashutosh.patidar@dsai.iitm.ac.in  
-🔗 [GitHub](https://github.com/asu2304) • [Kaggle](https://www.kaggle.com/asu2304) • [LinkedIn](https://www.linkedin.com/in/ashutosh-patidar-091a55171/) • [Twitter](https://twitter.com/Ashutos57570081) • [Resume](https://drive.google.com/file/d/1JpaNgwoeTllwJc886hbgk2SijVW937D0/view?usp=sharing)
+**AI Researcher & Engineer** based at **IIT Madras**  
+[Email](mailto:ashutosh.patidar@dsai.iitm.ac.in) • [GitHub](https://github.com/asu2304) • [LinkedIn](https://www.linkedin.com/in/ashutosh-patidar-091a55171/) • [Twitter](https://twitter.com/Ashutos57570081)
 
 ---
 
-
 ### 🧠 About Me
 
-I’m a passionate machine learning researcher(interpretability) with a strong mathematical foundation and a relentless drive to **solve real-world problems** through research, experimentation, and thoughtful engineering.
+I research **how deep learning models think**. 
 
-I specialize in building and understanding deep learning systems — especially in **transformer interpretability**, **theoretical DL**, and **ML Operations**.
+With a strong mathematical foundation, I focus on opening the "black box" of Transformers to understand their internal reasoning. Beyond theory, I love building robust, scalable AI systems that solve actual problems.
+
+Currently pursuing my **MS in Data Science and AI** at IIT Madras, working on Transformer Interpretability under Prof. Harish Guruprasad.
 
 ---
 
 ### 🚀 Highlights
 
-- 🎯 **Secured AIR-543 (98.62%ile)** in GATE (Data Science & AI), 2024  
-- 🧪 Working on **transformer interpretability** under Prof. Harish Guruprasad, IIT Madras  
-- 🎓 Selected for **M.Tech (High Value Assistantship)** at IIT Delhi and **MMVY Scholarship** for academic excellence  
-- 💻 Built projects in **face recognition**, **recommender systems**, and **customer segmentation**
+- **Top 1.5% in India:** Secured AIR-543 (98.62%ile) in GATE Data Science & AI (2024).
+- **Academic Excellence:** Recipient of the MMVY Scholarship and selected for High Value Assistantship at IIT Delhi.
+- **Research Focus:** actively investigating theoretical foundations of Deep Learning.
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Tech Stack
 
-**Languages & Libraries**  
-`Python`, `NumPy`, `Pandas`, `PyTorch`, `TensorFlow`, `OpenCV`, `Matplotlib`, `Seaborn`, `Scikit-Learn`, `Keras`, `NLTK`, `SpaCy`
+**Core**  
+`Python`, `PyTorch`, `TensorFlow`, `NumPy`, `Pandas`
 
-**Machine Learning & DL**  
-`CNNs`, `RNNs`, `LSTMs`, `Transformers`, `GANs`, `MLPs`, `SVM`, `Decision Trees`, `KNN`, `Naive Bayes`
+**AI & Deep Learning**  
+`Transformers`, `CNNs`, `LSTMs`, `HuggingFace`, `SpaCy`, `Scikit-Learn`
 
-**Tools & Platforms**  
-`Git`, `GitHub`, `Google Colab`, `VS Code`, `PyCharm`, `MongoDB`, `MATLAB`, `Kaggle`, `Jupyter Notebook`
-
----
-
-### 📚 Selected Coursework
-
-- Mathematical Foundations of Data Science – *Grade: 10.00*  
-- Deep Generative Modelling for Imaging – *Grade: 9.00*  
-- Introduction to Deep Learning – *Grade: 9.00*  
-- Foundations of Machine Learning – *Grade: 8.00*  
-- Data Analytics Lab – *Grade: 9.00*
+**Engineering & MLOps**  
+`FastAPI`, `Docker`, `Git/GitHub`, `Google Cloud Platform`, `VS Code`
 
 ---
 
 ### 💡 Featured Projects
 
-**🔍 One Shot Face Recognition with Siamese Networks**  
-Built a DNN from scratch for face recognition using Siamese architecture.  
-`Python`, `TensorFlow`, `Keras`, `OpenCV`
-
-**📦 Ecom Customer Segmentation (K-Means + RFM)**  
-Segmented retail customers using unsupervised learning.  
-`NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-Learn`
-
-**📚 PediaGeek Blog Recommender (KNN-based)**  
-Developed a scalable recommender system for blogs, improving engagement by 30–40%.  
-`KNN`, `ML Pipelines`, `Large-scale optimization`
+**🎙️ Multimodal AI Microservice**  
+Built a production-ready **FastAPI** system that integrates four distinct AI models: Named Entity Recognition (spaCy), Google Translation API, Speech Synthesis (gTTS), and Image Generation (Stability AI).  
+*Key Tech: FastAPI, Cloud APIs, MLOps, Git Flow*
 
 ---
 
-### 🧭 Current Goal
+### 🧭 What I'm Up To
 
-Contributing to **interpretable deep learning** focused on **theoretical and foundational AI research**.
+I am currently diving deep into **MLOps** to bridge the gap between research models and production systems, while continuing my core research on **interpretable AI**.
 
 ---
 
-_“Solve problems not because they are easy, but because they reveal the structure of intelligence.”_
+> *"Solve problems not because they are easy, but because they reveal the structure of intelligence."*
