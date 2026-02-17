@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Ashutosh Patidar
+# Hi, I'm Ashutosh Patidar
 
 **AI Researcher & Engineer** based at **IIT Madras**  
 [Email](mailto:ashutosh.patidar@dsai.iitm.ac.in) • [GitHub](https://github.com/asu2304) • [LinkedIn](https://www.linkedin.com/in/ashutosh-patidar-091a55171/) • [Twitter](https://twitter.com/Ashutos57570081)
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I research **how deep learning models think**. 
 
@@ -15,7 +15,7 @@ Currently pursuing my **MS in Data Science and AI** at IIT Madras, working on Tr
 
 ---
 
-### 🚀 Highlights
+### Highlights
 
 - **Top 1.5% in India:** Secured AIR-543 (98.62%ile) in GATE Data Science & AI (2024).
 - **Academic Excellence:** Recipient of the MMVY Scholarship and selected for High Value Assistantship at IIT Delhi.
@@ -23,7 +23,7 @@ Currently pursuing my **MS in Data Science and AI** at IIT Madras, working on Tr
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Core**  
 `Python`, `PyTorch`, `TensorFlow`, `NumPy`, `Pandas`
@@ -36,15 +36,15 @@ Currently pursuing my **MS in Data Science and AI** at IIT Madras, working on Tr
 
 ---
 
-### 💡 Featured Projects
+### Featured Projects
 
-**🎙️ Multimodal AI Microservice**  
+** Multimodal AI Microservice**  
 Built a production-ready **FastAPI** system that integrates four distinct AI models: Named Entity Recognition (spaCy), Google Translation API, Speech Synthesis (gTTS), and Image Generation (Stability AI).  
 *Key Tech: FastAPI, Cloud APIs, MLOps, Git Flow*
 
 ---
 
-### 🧭 What I'm Up To
+### What I'm Up To
 
 I am currently diving deep into **MLOps** to bridge the gap between research models and production systems, while continuing my core research on **interpretable AI**.
 
