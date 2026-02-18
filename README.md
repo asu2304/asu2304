@@ -38,7 +38,8 @@ Currently pursuing my **MS in Data Science and AI** at IIT Madras, working on Tr
 
 ### Featured Projects
 
-**Multimodal AI Microservice**  
+**Multimodal AI Microservice:**  
+
 Built a production-ready **FastAPI** system that integrates four distinct AI models: Named Entity Recognition (spaCy), Google Translation API, Speech Synthesis (gTTS), and Image Generation (Stability AI).  
 *Key Tech: FastAPI, Cloud APIs, MLOps, Git Flow*
 
