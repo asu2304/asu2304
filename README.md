@@ -7,7 +7,7 @@
 
 ### About Me
 
-I research **how deep learning models think**. 
+I research **how deep learning models think** - with a motive to contribute towards uncovering the In-Context Learning. 
 
 With a strong mathematical foundation, I focus on opening the "black box" of Transformers to understand their internal reasoning. Beyond theory, I love building robust, scalable AI systems that solve actual problems.
 
