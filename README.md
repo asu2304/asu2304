@@ -1,6 +1,6 @@
 # Hi, I'm Ashutosh Patidar
 
-**AI Researcher & Engineer** based at **IIT Madras**  
+**MS in Data Science and AI - IIT Madras**  
 [Email](mailto:ashutosh.patidar@dsai.iitm.ac.in) • [GitHub](https://github.com/asu2304) • [LinkedIn](https://www.linkedin.com/in/ashutosh-patidar-091a55171/) • [Twitter](https://twitter.com/Ashutos57570081)
 
 ---
