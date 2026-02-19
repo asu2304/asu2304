@@ -19,7 +19,7 @@ Currently pursuing my **MS in Data Science and AI** at IIT Madras, working on Tr
 
 - **Top 1.5% in India:** Secured AIR-543 (98.62%ile) in GATE Data Science & AI (2024).
 - **Academic Excellence:** Recipient of the MMVY Scholarship and selected for High Value Assistantship at IIT Delhi.
-- **Research Focus:** actively investigating theoretical foundations of Deep Learning.
+- **Research Focus:** actively investigating theoretical foundations of In-Context Learning.
 
 ---
 
