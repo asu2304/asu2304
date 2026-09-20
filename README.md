@@ -7,7 +7,7 @@
 
 ### About Me
 
-I'm interested in **how precisely large language models think** - so i'm working to uncover the In-Context Learning which is the fundamental mechanism which facilitate thinking in LLMs. 
+I'm interested in **how precisely large language models think** - i'm working to uncover the In-Context Learning which is the fundamental mechanism which facilitate thinking in LLMs. 
 
 I focus on opening the "black box" of Transformers to understand their internal reasoning. Beyond theory, I love building robust, scalable AI systems that solve actual problems.
 
