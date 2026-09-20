@@ -45,7 +45,7 @@ Built a production-ready **FastAPI** system that integrates four distinct AI mod
 
 ### What I'm Up To Nowadays
 
-building a full end to end automated AI powered loan approving system.
+building a full end to end automated AI powered loan approving system for financial institutions.
 
 ---
 
