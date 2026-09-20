@@ -7,9 +7,9 @@
 
 ### About Me
 
-I research **how large language models think** - with a motive to contribute towards uncovering the In-Context Learning. 
+I'm interested in **how precisely large language models think** - so i'm working to uncover the In-Context Learning which is the fundamental mechanism which facilitate thinking in LLMs. 
 
-With a strong mathematical foundation, I focus on opening the "black box" of Transformers to understand their internal reasoning. Beyond theory, I love building robust, scalable AI systems that solve actual problems.
+I focus on opening the "black box" of Transformers to understand their internal reasoning. Beyond theory, I love building robust, scalable AI systems that solve actual problems.
 
 Currently pursuing my **MS in Data Science and AI** at IIT Madras, working on Transformer Interpretability under Prof. Harish Guruprasad.
 
@@ -17,8 +17,6 @@ Currently pursuing my **MS in Data Science and AI** at IIT Madras, working on Tr
 
 ### Highlights
 
-- **Top 1.5% in India:** Secured AIR-543 (98.62%ile) in GATE Data Science & AI (2024).
-- **Academic Excellence:** Recipient of the MMVY Scholarship and selected for High Value Assistantship at IIT Delhi.
 - **Research Focus:** actively investigating theoretical foundations of In-Context Learning.
 
 ---
