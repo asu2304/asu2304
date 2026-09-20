@@ -45,7 +45,7 @@ Built a production-ready **FastAPI** system that integrates four distinct AI mod
 
 ### What I'm Up To Nowadays
 
-Currently diving deep into **MLOps** to bridge the gap between research models and production systems, while continuing my core research on **interpretable AI**.
+building a full end to end automated AI powered loan approving system.
 
 ---
 
