@@ -9,7 +9,7 @@
 
 I'm interested in **how precisely large language models think** - i'm working to uncover the In-Context Learning which is the fundamental mechanism which facilitate(inference time scaling) thinking in LLMs. 
 
-I focus on opening the "black box" of Transformers to understand their internal reasoning. Beyond theory, I love building robust, scalable AI systems that solve actual problems.
+I focus on opening the "black box" of Transformers to understand their internal reasoning. Beyond theory, I would love to build robust, scalable AI systems that solve actual problems.
 
 Currently pursuing my **MS in Data Science and AI** at IIT Madras, working on Transformer Interpretability under Prof. Harish Guruprasad.
 
