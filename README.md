@@ -18,7 +18,7 @@ Currently pursuing my **MS in Data Science and AI** at IIT Madras, working on Tr
 ### Highlights
 
 - **Research Focus:** actively investigating theoretical foundations of In-Context Learning.
-- **Blog:** [asu2304.github.io](https://asu2304.github.io/), revision notes for Probability & Statistics, Linear Algebra, Machine Learning and Deep Learning. Revision notes on hot industry topics such as RAG and AI agents are coming soon.
+- **Blog:** [asu2304.github.io](https://asu2304.github.io/), revision notes for Probability & Statistics, Linear Algebra, Machine Learning and Deep Learning. Comprehensive first principal blogs on hot industry topics such as RAG and AI agents will be up here soon.
 
 ---
 
