@@ -18,6 +18,7 @@ Currently pursuing my **MS in Data Science and AI** at IIT Madras, working on Tr
 ### Highlights
 
 - **Research Focus:** actively investigating theoretical foundations of In-Context Learning.
+- **Blog:** [asu2304.github.io](https://asu2304.github.io/), my study notes: Linear Algebra and Machine Learning revision.
 
 ---
 
