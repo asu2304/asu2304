@@ -2,13 +2,13 @@
 
 **MS in Data Science and AI - IIT Madras**  
 <p>
-  <sub>
+  <small>
     <a href="mailto:ashutosh.patidar@dsai.iitm.ac.in">Email</a> •
     <a href="https://github.com/asu2304">GitHub</a> •
     <a href="https://www.linkedin.com/in/ashutosh-patidar-091a55171/">LinkedIn</a> •
     <a href="https://twitter.com/Ashutos57570081">Twitter</a> •
     <a href="https://kaggle.com/asu2304">Kaggle</a>
-  </sub>
+  </small>
 </p>
 ---
 
