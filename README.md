@@ -1,11 +1,10 @@
 # Hi, I'm Ashutosh Patidar
 
 **MS in Data Science and AI - IIT Madras**  
-<a href="mailto:ashutosh.patidar@dsai.iitm.ac.in">Email</a> •
-<a href="https://github.com/asu2304" target="_blank" rel="noopener noreferrer">GitHub</a> •
-<a href="https://www.linkedin.com/in/ashutosh-patidar-091a55171/" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
-<a href="https://twitter.com/Ashutos57570081" target="_blank" rel="noopener noreferrer">Twitter</a> •
-<a href="https://kaggle.com/asu2304" target="_blank" rel="noopener noreferrer">Kaggle</a>
+<a href="https://github.com/asu2304" target="_blank">GitHub</a> •
+<a href="https://www.linkedin.com/in/ashutosh-patidar-091a55171/" target="_blank">LinkedIn</a> •
+<a href="https://twitter.com/Ashutos57570081" target="_blank">Twitter</a> •
+<a href="https://kaggle.com/asu2304" target="_blank">Kaggle</a>
 ---
 
 ### About Me
