@@ -14,7 +14,7 @@
 
 ### About Me
 
-I am interested in understanding how large language models (LLMs) think and reason. My research focuses on uncovering the mechanisms underlying In-Context Learning (ICL), a key capability of LLMs, and 
+I am interested in understanding how large language models (LLMs) think and reason. My research focuses on uncovering the mechanisms underlying In-Context Learning (ICL), a key capability of LLMs.
 
 also i love understanding how Chain-of-Thought (CoT) prompting, a widely used inference-time scaling technique, influences their reasoning and problem-solving abilities. Ultimately, I aim to understand how these mechanisms enable LLMs to learn from context and perform complex reasoning tasks.
 
